@@ -19,7 +19,7 @@ class Order
                       :port                 => '587',
                       :enable_starttls_auto => true,
                       :user_name            => 'vovah1a@gmail.com',
-                      :password             => '150897opohas08vova',
+                      :password             => '********',
                       :authentication       => :plain, # :plain, :login, :cram_md5, no auth by default
                       :domain               => "mail.google.com" # the HELO domain provided by the client to the server
                   },
